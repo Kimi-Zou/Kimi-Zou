@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.10.1/devicon.min.css">
 
-<img style='height: 250px' src="readme-assets/kimi.jpg"> 
+<img style='height: 250px' src="readme-assets/banner.jpg"> 
 <br />
 
 ## 😄&nbsp; Hello, I'm Kimi! 
