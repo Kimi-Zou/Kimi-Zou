@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.10.1/devicon.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.10.1/devicon.min.css" alt='banner'>
 
 <img style='height: 250px' src="readme-assets/banner.jpg"> 
 <br />
@@ -27,26 +27,26 @@ A little more about me... <br />
 - Frontend: <br />
   ![React](https://github.com/harshcut/harshcut/raw/master/static/react.svg)
   ![Redux](https://github.com/harshcut/harshcut/raw/master/static/redux.svg)
-  <img src='readme-assets/html5-original.svg' width="40" height="40">
-  <img src='readme-assets/css3-original.svg' width="40" height="40">
+  <img src='readme-assets/html5-original.svg' width="40" height="40" alt='html5'>
+  <img src='readme-assets/css3-original.svg' width="40" height="40" alt='css3'>
 - Backend: <br />
-  <img src='readme-assets/nodejs-original.svg' width="40" height="40">
-  <img src='readme-assets/express-original.svg' width="40" height="40">
-  <img src='readme-assets/flask-original.svg' width="40" height="40">
-  <img src='readme-assets/postgresql-original.svg' width="40" height="40">
+  <img src='readme-assets/nodejs-original.svg' width="40" height="40" alt='Node.js'>
+  <img src='readme-assets/express-original.svg' width="40" height="40" alt='Express'>
+  <img src='readme-assets/flask-original.svg' width="40" height="40" alt='flask'>
+  <img src='readme-assets/postgresql-original.svg' width="40" height="40" alt='postgreSQL'>
 - Others: <br />
-  <img src='readme-assets/docker-original.svg' width="40" height="40">
-  <img src='readme-assets/heroku-original.svg' width="40" height="40">
-  <img src='readme-assets/mocha-plain.svg' width="40" height="40">
-  <img src='readme-assets/git-original.svg' width="40" height="40">
-  <img src='readme-assets/github-original.svg' width="40" height="40">
-  <img src='readme-assets/npm-original-wordmark.svg' width="40" height="40">
-  <img src='readme-assets/visualstudio-plain.svg' width="40" height="40">
+  <img src='readme-assets/docker-original.svg' width="40" height="40" alt='Docker'>
+  <img src='readme-assets/heroku-original.svg' width="40" height="40" alt='Heroku'>
+  <img src='readme-assets/mocha-plain.svg' width="40" height="40" alt='Mocha'>
+  <img src='readme-assets/git-original.svg' width="40" height="40" alt='Git'>
+  <img src='readme-assets/github-original.svg' width="40" height="40" alt='Github'>
+  <img src='readme-assets/npm-original-wordmark.svg' width="40" height="40" alt='NPM'>
+  <img src='readme-assets/visualstudio-plain.svg' width="40" height="40" alt='Visual Studio Code'>
 - Design: <br />
-  <img src='readme-assets/sketch-original.svg' width="40" height="40">
-  <img src='readme-assets/xd-plain.svg' width="40" height="40">
-  <img src='readme-assets/photoshop-plain.svg' width="40" height="40">
-  <img src='readme-assets/illustrator-plain.svg' width="40" height="40">
+  <img src='readme-assets/sketch-original.svg' width="40" height="40" alt='Sketch'>
+  <img src='readme-assets/xd-plain.svg' width="40" height="40" alt='Adobe XD'>
+  <img src='readme-assets/photoshop-plain.svg' width="40" height="40" alt='Adobe Photoshop'>
+  <img src='readme-assets/illustrator-plain.svg' width="40" height="40" alt='Adobe Illustrator'>
 
 <br />
 
