@@ -3,15 +3,16 @@
 <img style='height: 250px' src="readme-assets/banner.jpg"> 
 <br />
 
-## 😄&nbsp; Hello, I'm Kimi! 
+## 😄&nbsp; Hello, I'm Kimi!
+
 I build full-stack web apps with appealing UI and smooth UX experience <br />
 by working with great teams and writing easy-to-read and DRY code.
 
 A little more about me... <br />
 &nbsp; &nbsp; 🔭 &nbsp; I’m open to work and looking for junior software engineer positions <br />
 &nbsp; &nbsp; 🌱 &nbsp; I’m currently reading <em>Eloquent JavaScript</em><br />
-&nbsp; &nbsp; 📫 &nbsp; How to reach me: 
-<a href='https://www.linkedin.com/in/kimizou/'>LinkedIn</a>, 
+&nbsp; &nbsp; 📫 &nbsp; How to reach me:
+<a href='https://www.linkedin.com/in/kimizou/'>LinkedIn</a>,
 <a href='https://angel.co/u/kimi-zou'>AngelList</a>,
 <a href='mailto:kimizou.kz@gmail.com'>Email</a>
 <br />
@@ -21,12 +22,13 @@ A little more about me... <br />
 <br />
 
 ## 💻&nbsp; Technologies && Tools I Use:
+
 - Languages: <br />
-  ![JS](https://github.com/harshcut/harshcut/raw/master/static/javascript.svg)
-  ![Python](https://github.com/harshcut/harshcut/raw/master/static/python.svg)
+  <img src='readme-assets/javascript-seeklogo.com.svg' width="40" height="40" alt='javascript'>
+  <img src='readme-assets/icons8-python.svg' width="40" height="40" alt='python'>
 - Frontend: <br />
-  ![React](https://github.com/harshcut/harshcut/raw/master/static/react.svg)
-  ![Redux](https://github.com/harshcut/harshcut/raw/master/static/redux.svg)
+  <img src='readme-assets/icons8-react-native.svg' width="40" height="40" alt='react'>
+  <img src='readme-assets/icons8-redux.svg' width="40" height="40" alt='redux'>
   <img src='readme-assets/html5-original.svg' width="40" height="40" alt='html5'>
   <img src='readme-assets/css3-original.svg' width="40" height="40" alt='css3'>
 - Backend: <br />
@@ -50,7 +52,8 @@ A little more about me... <br />
 
 <br />
 
-## 🐾 &nbsp;  Web Apps I Built:
+## 🐾 &nbsp; Web Apps I Built:
+
 - <a href='https://capstone-make-a-wish.herokuapp.com/'>Make-a-Wish</a> - a birthday reminder app built for users to share birthday gift wishes to friends and family.
 - <a href='https://anime-cloud.herokuapp.com/'>AnimeCloud</a> - a full-stack <a href='https://soundcloud.com/' color="var(--color-scale-gray-8)"><em color="black">SoundCloud</em></a> clone made for Japanese Anime lovers.
 - <a href='https://cheonjae.herokuapp.com/'>Cheonjae</a> - A <a href='https://genius.com/' style='text-decoration: none; color: inherit'><em>Genius</em></a> clone created for passionate K-pop fans.
@@ -59,6 +62,7 @@ A little more about me... <br />
 <br />
 
 ## 🎏&nbsp; My Github Stats:
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kimi-Zou&layout=compact&langs_count=10&count_private=true&exclude_repo=01-fcc-tribute-page,02-fcc-survey-form,03-fcc-product-landing-page,04-fcc-technical-documentation,06-fcc-random-quote-machine,kimi-zou.github.io&theme=radical)](https://github.com/Kimi-Zou/github-readme-stats)
 <br />
 ![Kimi's github stats](https://github-readme-stats.vercel.app/api?username=kimi-zou&theme=radical&show_icons=true&count_private=true&hide=issues)
