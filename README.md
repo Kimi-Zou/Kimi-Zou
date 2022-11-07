@@ -6,7 +6,7 @@
 ## 😄&nbsp; Hello, I'm Kimi!
 
 I build full-stack web apps with appealing UI and smooth UX experience <br />
-by working with great teams and writing easy-to-read and DRY code.
+by working with great teams and writing easy-to-read code.
 
 A little more about me... <br />
 &nbsp; &nbsp; 🔭 &nbsp; I’m open to work and looking for junior software engineer positions <br />
